@@ -230,9 +230,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Filipe\\Repos Udemy\\Curso RESTFul\\Rest.With.ASPNET.Udemy\\Calculadora.REST\\Calculadora.REST.csproj",
-      "projectName": "Calculadora.REST",
-      "projectPath": "C:\\Filipe\\Repos Udemy\\Curso RESTFul\\Rest.With.ASPNET.Udemy\\Calculadora.REST\\Calculadora.REST.csproj",
+      "projectUniqueName": "C:\\Filipe\\Repos Udemy\\Curso RESTFul\\Rest.With.ASPNET.Udemy\\Calculadora.REST\\01 - Calculadora.REST.csproj",
+      "projectName": "01 - Calculadora.REST",
+      "projectPath": "C:\\Filipe\\Repos Udemy\\Curso RESTFul\\Rest.With.ASPNET.Udemy\\Calculadora.REST\\01 - Calculadora.REST.csproj",
       "packagesPath": "C:\\Users\\142840\\.nuget\\packages\\",
       "outputPath": "C:\\Filipe\\Repos Udemy\\Curso RESTFul\\Rest.With.ASPNET.Udemy\\Calculadora.REST\\obj\\",
       "projectStyle": "PackageReference",

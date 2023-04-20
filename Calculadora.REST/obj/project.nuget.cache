@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JZNs1FMMueWYXso4tM5jsM4DPRL+2VCJr2Q7U3y5QkQQfvcCfBMxtn8yjKXERVACPgA7JC5G4LNCvWGlF7ZGVQ==",
+  "dgSpecHash": "ZvN/l1k1b1pN5LKi/SFmfCJpf1bRuasfYmNgVFhH+32nTBxfyM5O8irQZsjIPJILP/yjTQdV3a+ojzFpILJWJQ==",
   "success": true,
-  "projectFilePath": "C:\\Filipe\\Repos Udemy\\Curso RESTFul\\Rest.With.ASPNET.Udemy\\Calculadora.REST\\Calculadora.REST.csproj",
+  "projectFilePath": "C:\\Filipe\\Repos Udemy\\Curso RESTFul\\Rest.With.ASPNET.Udemy\\Calculadora.REST\\01 - Calculadora.REST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\142840\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\142840\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
