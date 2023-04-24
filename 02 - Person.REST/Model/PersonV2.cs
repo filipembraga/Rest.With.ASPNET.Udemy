@@ -2,9 +2,8 @@
 
 namespace _02___Person.REST.Model
 {
-    //Anotations used for naming of database 
     [Table("person")]
-    public class Person
+    public class PersonV2
     {
         [Column("id")]
         public long Id { get; set; }
@@ -13,8 +12,6 @@ namespace _02___Person.REST.Model
         [Column("last_name")]
         public string LastName { get; set; }
         [Column("address")]
-        public string Address { get; set; }
-        [Column("gender")]
-        public string Gender { get; set; }
+        public string Address { get; set; }      
     }
 }

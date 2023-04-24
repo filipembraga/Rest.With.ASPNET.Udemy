@@ -25,7 +25,7 @@ namespace _02___Person.REST.Services.Implementations
                 Person person = MockPerson(i);
                 persons.Add(person);
             }
-            return persons ;
+            return persons;
         }
 
         public Person FindById(long id)
@@ -53,6 +53,11 @@ namespace _02___Person.REST.Services.Implementations
         private long IncrementAndGet()
         {
             return Interlocked.Increment(ref count);
+        }
+
+        public PersonV2 Create(PersonV2 person)
+        {
+            return person;
         }
     }
 }

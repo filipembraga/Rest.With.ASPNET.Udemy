@@ -3,9 +3,10 @@ using _02___Person.REST.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace _02___Person.REST.Controllers
-{
+{    
     [ApiController]
-    [Route("api/[controller]")]
+    [ApiVersion("1.0")]
+    [Route("api/v1/[controller]")]
     public class PersonController : ControllerBase
     {
 
