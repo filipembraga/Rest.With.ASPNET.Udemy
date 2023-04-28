@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 - Calculadora.REST", "01
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 - Person.REST", "02 - Person.REST\02 - Person.REST.csproj", "{5FC95E25-E372-4AC9-ACD0-3EE4F5AAB9CE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46FABFBA-15FA-4C44-9096-BF18F60BF4E3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

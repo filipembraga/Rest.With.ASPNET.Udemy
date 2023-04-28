@@ -1,8 +1,8 @@
 ﻿using _02___Person.REST.Model;
 
-namespace _02___Person.REST.Services.Interfaces
+namespace _02___Person.REST.Business.Interfaces
 {
-    public interface IPersonService
+    public interface IPersonBusiness
     {
         Person Create(Person person);
         Person FindById(long id);
